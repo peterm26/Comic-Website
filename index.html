@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choco Comics - Your Comic Destination</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header with Animated Characters -->
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <!-- Search Bar on the Left -->
+                <div class="search-container">
+                    <div class="search-box">
+                        <input type="text" placeholder="Search comics..." class="search-input">
+                        <button class="search-btn">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <path d="m21 21-4.35-4.35"></path>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Logo in Center -->
+                <div class="nav-logo">
+                    <h1>CHOCO COMICS</h1>
+                </div>
+
+                <!-- Profile Picture on the Right -->
+                <div class="profile-container">
+                    <div class="profile-box">
+                        <img src="profile-placeholder.jpg" alt="Profile Picture" class="profile-img" onerror="this.style.display='none'">
+                        <div class="profile-placeholder">👤</div>
+                    </div>
+                </div>
+            </nav>
+
+            <!-- Navigation Menu Below Logo -->
+            <ul class="nav-menu">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#new-releases" class="nav-link">New Releases</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Hero Banner Section -->
+    <section class="hero-banner" id="home">
+        <div class="container">
+            <div class="banner-content">
+                <!-- Banner Image - Chocos Cookie Character and Comic Superhero -->
+                <div class="banner-image">
+                    <img src="bannerimage2.jpg" alt="Chocos Cookie Character and Comic Superhero - Choco Comics Banner" class="hero-img" onerror="console.log('Image failed to load:', this.src)">
+                </div>
+    </section>
+
+    <!-- New Releases Section -->
+    <section class="new-releases">
+        <div class="container">
+            <!-- Calendar Box with Comics -->
+            <div class="calendar-box">
+                <div class="calendar-header">
+                    <h3>New Releases This Week</h3>
+                    <div class="date-selector">
+                        <div class="week-nav">
+                            <button class="week-btn prev">‹</button>
+                            <button class="week-btn next">›</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="comics-grid" id="newReleasesGrid">
+                    <!-- Comics will be loaded dynamically from JSON -->
+                </div>
+                <div class="view-all-section">
+                    <button class="view-all-btn">
+                        <span>View All New Releases</span>
+                        <svg class="arrow-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M5 12h14M12 5l7 7-7 7"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Trending and Pull List Section -->
+    <section class="trending-pull-section">
+        <div class="container">
+            <div class="trending-pull-grid">
+                <!-- Trending Comics (Left Column) -->
+                <div class="trending-comics">
+                    <h3 class="trending-subheading">Trending Comics</h3>
+                    <div class="trending-list" id="trendingList">
+                        <!-- Trending comics will be loaded dynamically from comics.json -->
+                    </div>
+                </div>
+
+                <!-- Pull List (Right Column) -->
+                <div class="pull-list">
+                    <h2 class="section-title pull-list-title">Pull List</h2>
+                    <div class="comic-list-items" id="comicListsContent">
+                        <!-- Pull list comics will be loaded dynamically -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Staff Picks Section -->
+    <section class="staff-picks">
+        <div class="container">
+            <h2 class="section-title staff-picks-title">Staff Picks</h2>
+            <div class="staff-picks-grid" id="staffPicksGrid">
+                <!-- Staff picks will be loaded dynamically from comics.json -->
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+  <!------------------------------------------------FOOTER------------------------------------------------------------>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Choco Comics</h3>
+                    <p>Your Ultimate Comic Destination</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#new-releases">New Releases</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <div class="social-links">
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="https://github.com/peterm26">GitHub</a>
+                        <a href="#" class="https://www.linkedin.com/in/peter-martagon-mejia-341604296/">LinkedIn</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Choco Comics. Created by Peter Martagon Mejia.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 

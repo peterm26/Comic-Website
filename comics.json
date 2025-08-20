@@ -1,0 +1,576 @@
+{
+  "newReleases": [
+
+    
+    {
+      "id": "batman-absolute-11",
+      "title": "Absolute Batman #11",
+      "publisher": "DC Comics",
+      "writer": "Scott Snyder",
+      "price": "$5.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9078880.jpg?1755646956",
+      "releaseDate": "8/20/25",
+
+      "searchTerms": ["batman", "absolute", "11", "dc", "comics", "scott", "snyder"]
+    },
+    {
+      "id": "flash-absolute-6",
+      "title": "Absolute Flash #6",
+      "publisher": "DC Comics",
+      "writer": "Jeff Lemire",
+      "price": "$5.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1073526.jpg?1755655147",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["flash", "absolute", "6", "dc", "comics", "jeff", "lemire"]
+    },
+    {
+      "id": "nightwing-129",
+      "title": "Nightwing #129",
+      "publisher": "DC Comics",
+      "writer": "Dan Watters",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7017562.jpg?1755433468",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["nightwing", "129", "dc", "comics", "tom", "taylor"]
+    },
+    {
+      "id": "detective-comics-1100",
+      "title": "Detective Comics #1100",
+      "publisher": "DC Comics",
+      "writer": "Dan Watters",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7799895.jpg?1755487296",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["detective", "comics", "1100", "dc", "ram", "v"]
+    },
+    {
+      "id": "batman-superman-worlds-finest-42",
+      "title": "Batman/Superman: World's Finest #42",
+      "publisher": "DC Comics",
+      "writer": "Mark Waid",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2276143.jpg?1755277075",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["batman", "superman", "worlds", "finest", "42", "dc", "comics", "mark", "waid"]
+    },
+    {
+      "id": "amazing-spider-man-10",
+      "title": "The Amazing Spider-Man #10",
+      "publisher": "Marvel Comics",
+      "writer": "John Romita Jr.",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1471542.jpg?1755440687",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["amazing", "spider", "man", "10", "marvel", "comics", "zeb", "wells"]
+    },
+    {
+      "id": "ultimate-black-panther-19",
+      "title": "Ultimate Black Panther #19",
+      "publisher": "Marvel Comics",
+      "writer": "Bryan Hill",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6960727.jpg?1755419843",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["ultimate", "black", "panther", "19", "marvel", "comics", "bryan", "hill"]
+    },
+    {
+      "id": "invincible-battle-beast-4",
+      "title": "Invincible Universe: Battle Beast #4",
+      "publisher": "Image Comics",
+      "writer": "Robert Kirkman",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2620802.jpg?1746311649",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["invincible", "universe", "battle", "beast", "4", "image", "comics", "kyle", "higgins"]
+    },
+    {
+      "id": "imperial-3",
+      "title": "Imperial #3",
+      "publisher": "Image Comics",
+      "writer": "Johnathan Hickman",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8561135.jpg?1755283032",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["imperial", "3", "image", "comics", "steven", "seagle"]
+    },
+    {
+      "id": "batman-robin-year-one-10",
+      "title": "Batman and Robin: Year One #10",
+      "publisher": "DC Comics",
+      "writer": "Mark Waid",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6160005.jpg?1755599434",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["batman", "robin", "year", "one", "10", "dc", "comics", "jeff", "lemire"]
+    },
+    {
+      "id": "titans-26",
+      "title": "Titans #26",
+      "publisher": "DC Comics",
+      "writer": "John Layman",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2640284.jpg?1754559881",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["titans", "26", "dc", "comics", "tom", "taylor"]
+    },
+    {
+      "id": "new-gods-9",
+      "title": "The New Gods #9",
+      "publisher": "DC Comics",
+      "writer": "Ram V",
+      "price": "3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4522386.jpg?1755276999",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["new", "gods", "9", "dc", "comics", "mark", "russell"]
+    },
+    {
+      "id": "wolverine-12",
+      "title": "Wolverine #12",
+      "publisher": "Marvel Comics",
+      "writer": "Saladin Ahmed",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3319773.jpg?1755283066",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["wolverine", "12", "marvel", "comics", "benjamin", "percy"]
+    },
+    {
+      "id": "exceptional-x-men-12",
+      "title": "Exceptional X-Men #12",
+      "publisher": "Marvel Comics",
+      "writer": "Eve L. Ewing",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9747858.jpg?1755407574",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["exceptional", "x-men", "12", "marvel", "comics", "eve", "ewing"]
+    },
+    {
+      "id": "gi-joe-10",
+      "title": "G.I. Joe #10",
+      "publisher": "IDW Publishing",
+      "writer": "Joshua Williamson",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1501767.jpg?1748725225",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["gi", "joe", "10", "idw", "publishing", "joshua", "williamson"]
+    },
+    {
+      "id": "superman-unlimited-4",
+      "title": "Superman Unlimited #4",
+      "publisher": "DC Comics",
+      "writer": "Dan Slott",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8161685.jpg?1755611518",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["superman", "unlimited", "4", "dc", "comics", "mark", "waid"]
+    },
+    {
+      "id": "exquisite-corpses-4",
+      "title": "Exquisite Corpses #4",
+      "publisher": "Image Comics",
+      "writer": "James Tynion IV",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5156808.jpg?1748724999",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["exquisite", "corpses", "4", "image", "comics", "ales", "kot"]
+    },
+    {
+      "id": "department-of-truth-33",
+      "title": "The Department of Truth #33",
+      "publisher": "Image Comics",
+      "writer": "James Tynion IV",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3272088.jpg?1753655939",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["department", "of", "truth", "33", "image", "comics", "james", "tynion"]
+    },
+    {
+      "id": "psylocke-10",
+      "title": "Psylocke #10",
+      "publisher": "Marvel Comics",
+      "writer": "Alyssa Wong",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9489337.jpg?1755490851",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["psylocke", "10", "marvel", "comics", "tini", "howard"]
+    },
+    {
+      "id": "catwoman-78",
+      "title": "Catwoman #78",
+      "publisher": "DC Comics",
+      "writer": "Torunn Grønbekk",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3097797.jpg?1754559866",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["catwoman", "78", "dc", "comics", "tini", "howard"]
+    },
+    {
+      "id": "black-cat-1",
+      "title": "Black Cat #1",
+      "publisher": "Marvel Comics",
+      "writer": "G. Willow Wilson",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6300965.jpg?1755440651",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["black", "cat", "1", "marvel", "comics", "jed", "mackay"]
+    },
+    {
+      "id": "new-avengers-3",
+      "title": "The New Avengers #3",
+      "publisher": "Marvel Comics",
+      "writer": "Sam Humphries",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3418568.jpg?1755283245",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["new", "avengers", "3", "marvel", "comics", "jed", "mackay"]
+    },
+    {
+      "id": "krypto-last-dog-3",
+      "title": "Krypto: The Last Dog of Krypton #3",
+      "publisher": "DC Comics",
+      "writer": "Ryan North",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1325096.jpg?1755344868",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["krypto", "last", "dog", "krypton", "3", "dc", "comics", "dan", "jurgens"]
+    },
+    {
+      "id": "gunslinger-spawn-46",
+      "title": "Gunslinger Spawn #46",
+      "publisher": "Image Comics",
+      "writer": "Todd McFarlane",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9643629.jpg?1748305816",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["gunslinger", "spawn", "46", "image", "comics", "todd", "mcfarlane"]
+    },
+    {
+      "id": "godzilla-marvel-universe-2",
+      "title": "Godzilla Destroys the Marvel Universe #2",
+      "publisher": "Marvel Comics",
+      "writer": "Gerry Duggan",
+      "price": "$4.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9781894.jpg?1755609025",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["godzilla", "destroys", "marvel", "universe", "2", "cullen", "bunn"]
+    },
+    {
+      "id": "hyde-street-8",
+      "title": "Hyde Street #8",
+      "publisher": "Image Comics",
+      "writer": "Geoff Johns",
+      "price": "$3.99",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5011955.jpg?1752774512",
+      "releaseDate": "8/20/25",
+      "searchTerms": ["hyde", "street", "8", "image", "comics", "joe", "casey"]
+    },
+
+    {
+        "id": "ultimates-15",
+        "title": "The Ultimates #15",
+        "publisher": "Marvel Comics",
+        "writer": "Deniz Camp",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8304824.jpg?1755548944",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["ultimates", "15", "marvel", "comics", "jonathan", "hickman"]
+      },
+      {
+        "id": "transformers-23",
+        "title": "Transformers #23",
+        "publisher": "Image Comics",
+        "writer": "Daniel Warren Johnson",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6988441.jpg?1755208712",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["transformers", "23", "image", "comics", "daniel", "warren", "johnson"]
+      },
+      {
+        "id": "x-men-20",
+        "title": "X-Men #20",
+        "publisher": "Marvel Comics",
+        "writer": "Jed MacKay",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9189255.jpg?1755451309",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["x-men", "20", "marvel", "comics", "gerry", "duggan"]
+      },
+      {
+        "id": "action-comics-1089",
+        "title": "Action Comics #1089",
+        "publisher": "DC Comics",
+        "writer": "Mark Waid",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2862456.jpg?1755137124",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["action", "comics", "1089", "dc", "comics", "mark", "waid"]
+      },
+      {
+        "id": "ultimate-spider-man-incursion-3",
+        "title": "Ultimate Spider-Man: Incursion #3",
+        "publisher": "Marvel Comics",
+        "writer": "Cody Ziglar",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5927047.jpg?1755676383",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["ultimate", "spider", "man", "incursion", "3", "marvel", "comics", "jonathan", "hickman"]
+      },
+      {
+        "id": "fantastic-four-2",
+        "title": "Fantastic Four #2",
+        "publisher": "Marvel Comics",
+        "writer": "Ryan North",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4733695.jpg?1755088801",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["fantastic", "four", "2", "marvel", "comics", "ryan", "north"]
+      },
+      {
+        "id": "miles-morales-spider-man-36",
+        "title": "Miles Morales: Spider-Man #36",
+        "publisher": "Marvel Comics",
+        "writer": "Federico Vicentini",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6481964.jpg?1755695932",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["miles", "morales", "spider", "man", "36", "marvel", "comics", "cody", "ziglar"]
+      },
+      {
+        "id": "batman-robin-24",
+        "title": "Batman and Robin #24",
+        "publisher": "DC Comics",
+        "writer": "Phillip Kennedy Johnson",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2806228.jpg?1755092872",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["batman", "robin", "24", "dc", "comics", "joshua", "williamson"]
+      },
+      {
+        "id": "daredevil-24",
+        "title": "Daredevil #24",
+        "publisher": "Marvel Comics",
+        "writer": "Chip Zdarsky",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9078880.jpg?1755646956",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["ultimate", "spider", "man", "incursion", "3", "marvel", "comics", "jonathan", "hickman"]
+      },
+      {
+        "id": "magik-8",
+        "title": "Magik #8",
+        "publisher": "Marvel Comics",
+        "writer": "Pablo Villalobos",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7288958.jpg?1755492464",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["magik", "8", "marvel", "comics", "steve", "orlando"]
+      },
+      {
+        "id": "batman-dark-patterns-9",
+        "title": "Batman: Dark Patterns #9",
+        "publisher": "DC Comics",
+        "writer": "Dan Watters",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5473257.jpg?1755153071",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["batman", "dark", "patterns", "9", "dc", "comics", "dan", "watters"]
+      },
+      {
+        "id": "spawn-367",
+        "title": "Spawn #367",
+        "publisher": "Image Comics",
+        "writer": "Todd McFarlane",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8518739.jpg?1755218917",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["spawn", "367", "image", "comics", "todd", "mcfarlane"]
+      },
+      {
+        "id": "spider-man-wolverine-4",
+        "title": "Spider-Man & Wolverine #4",
+        "publisher": "Marvel Comics",
+        "writer": "Kaare Andrews",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5711427.jpg?1755441252",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["spider", "man", "wolverine", "4", "marvel", "comics", "kaare", "andrews"]
+      },
+      {
+        "id": "supergirl-4",
+        "title": "Supergirl #4",
+        "publisher": "DC Comics",
+        "writer": "Sophie Campbell",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8966420.jpg?1755139306",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["supergirl", "4", "dc", "comics", "mariko", "tamaki"]
+      },
+      {
+        "id": "superman-kryptonite-spectrum-1",
+        "title": "Superman: The Kryptonite Spectrum #1",
+        "publisher": "DC Comics",
+        "writer": "Martin Morazzo",
+        "price": "$5.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2303999.jpg?1755153222",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["superman", "kryptonite", "spectrum", "1", "dc", "comics", "martin", "morazzo"]
+      },
+      {
+        "id": "green-lantern-corps-7",
+        "title": "Green Lantern Corps #7",
+        "publisher": "DC Comics",
+        "writer": "Jeremy Adams",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1840885.jpg?1755221608",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["green", "lantern", "corps", "7", "dc", "comics", "jeremy", "adams"]
+      },
+      {
+        "id": "laura-kinney-wolverine-9",
+        "title": "Laura Kinney: Wolverine #9",
+        "publisher": "Marvel Comics",
+        "writer": "Elena Casagrande",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5937519.jpg?1755221541",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["laura", "kinney", "wolverine", "9", "marvel", "comics", "ele", "casagrande"]
+      },
+      {
+        "id": "aquaman-8",
+        "title": "Aquaman #8",
+        "publisher": "DC Comics",
+        "writer": "Tom Taylor",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2644663.jpg?1755497994",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["aquaman", "8", "dc", "comics", "tom", "taylor"]
+      },
+      {
+        "id": "bug-wars-6",
+        "title": "Bug Wars #6",
+        "publisher": "Image Comics",
+        "writer": "Jason Aaron",
+        "price": "$4.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9612778.jpg?1755148200",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["bug", "wars", "6", "image", "comics", "jason", "aaron"]
+      },
+      {
+        "id": "king-spawn-48",
+        "title": "King Spawn #48",
+        "publisher": "Image Comics",
+        "writer": "Todd McFarlane",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1656646.jpg?1755130283",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["king", "spawn", "48", "image", "comics", "todd", "mcfarlane"]
+      },
+      {
+        "id": "eddie-brock-carnage-7",
+        "title": "Eddie Brock: Carnage #7",
+        "publisher": "Marvel Comics",
+        "writer": "Kaeden McGahey",
+        "price": "$3.99",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2612918.jpg?1755118985",
+        "releaseDate": "8/13/25",
+        "searchTerms": ["eddie", "brock", "carnage", "7", "marvel", "comics", "kaeden", "mcgahey"]
+      }
+    
+  ],
+  "trendingComics": [
+    {
+      "id": "all-star-superman-compact",
+      "title": "All-Star Superman: DC Compact Comics Edition TP",
+      "publisher": "DC Comics",
+      "writer": "Grant Morrison",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7806528.jpg?1752276465",
+      "description": "Grant Morrison and Frank Quitely’s modern classic continues to redefine Superman by exploring his humanity, heroism, and legacy after discovering he’s dying from solar overexposure. This edition collects the full story in a compact format, showing Superman’s final feats of compassion, intellect, and strength. A definitive tale of hope and sacrifice that balances cosmic scale with deeply personal moments.",
+      "searchTerms": ["all-star", "superman", "dc", "compact", "comics", "edition", "tp", "grant", "morrison", "frank", "quitely"]
+    },
+    {
+      "id": "ultimate-spider-man-1",
+      "title": "Ultimate Spider-Man #1",
+      "publisher": "Marvel Comics",
+      "writer": "Jonathan Hickman",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5207966.jpg?1738662101",
+      "description": "Jonathan Hickman and Marco Checchetto relaunch Marvel’s Ultimate Universe with a bold reimagining of Spider-Man. Peter Parker’s life takes a dramatic turn as he steps into a very different role than the one fans expect, blending Hickman’s world-building with grounded character struggles. This issue sets up a new foundation for Spidey in a redefined Marvel landscape.",
+      "searchTerms": ["ultimate", "spider", "man", "1", "marvel", "comics", "jonathan", "hickman", "marco", "checchetto"]
+    },
+    {
+      "id": "transformers-23",
+      "title": "Transformers #23",
+      "publisher": "Image Comics",
+      "writer": "Daniel Warren Johnson",
+      "cover": "https://cdn.imagecomics.com/assets/i/releases/1075030/transformers-23_4486d9bfcc.jpg",
+      "description": "Daniel Warren Johnson’s acclaimed Transformers saga barrels forward with high-octane action and raw emotional beats. As the Autobots and Decepticons continue their brutal war, human allies and betrayals come into sharper focus, raising the stakes for survival. The series’ mix of kinetic art and character-driven storytelling keeps pushing toward a climactic showdown.",
+      "searchTerms": ["transformers", "23", "image", "comics", "daniel", "warren", "johnson", "jorge", "corona", "mike", "spicer"]
+    },
+    {
+      "id": "spawn-367",
+      "title": "SPAWN #367",
+      "publisher": "Image Comics",
+      "writer": "Todd McFarlane",
+      "cover": "https://cdn.imagecomics.com/assets/i/releases/1068781/spawn-367_c7de8e0582.jpg",
+      "description": "Todd McFarlane’s long-running dark fantasy expands as Spawn faces new supernatural threats that test his power and resolve. Alliances shift and rival factions tighten their grip, pushing Al Simmons deeper into the bloody war between Heaven, Hell, and Earth. This issue continues building the epic tapestry of Spawn’s struggle for vengeance and control.",
+      "searchTerms": ["spawn", "367", "image", "comics", "todd", "mcfarlane", "brett", "booth", "federico", "sabbatini", "tonton", "revolver"]
+    },
+    {
+      "id": "absolute-wonder-woman-10",
+      "title": "Absolute Wonder Woman #10",
+      "publisher": "DC Comics",
+      "writer": "Thompson",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3167576.jpg?1753253543",
+      "description": "Thompson, Hayden Sherman, and Jordie Bellaire bring Diana into the next stage of her Absolute-era adventures. Wonder Woman faces both mythic and modern enemies, forcing her to balance divine responsibility with mortal compassion. The series blends striking visuals with bold new storytelling directions as Diana confronts challenges that could redefine her legacy.",
+      "searchTerms": ["absolute", "wonder", "woman", "10", "dc", "comics", "thompson", "hayden", "sherman", "jordie", "bellaire"]
+    }
+
+    
+],
+  
+  "pullList": [
+    
+    
+  ],
+  "staffPicks": [
+    {
+      "id": "absolute-martian-manhunter-4",
+      "title": "Absolute Martian Manhunter #4",
+      "publisher": "DC Comics",
+      "writer": "Deniz Camp",
+      "artist": "Javier Rodríguez",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272772.jpg?1755383736",
+      "description": "Deniz Camp and Javier Rodríguez dive deeper into J’onn J’onzz’s fractured psyche as secrets from Mars collide with his life on Earth. This issue blends noir mystery with cosmic horror, testing Martian Manhunter’s identity as both detective and alien survivor. The Absolute format continues to push bold visuals and layered storytelling.",
+      "price": "$4.99",
+      "releaseDate": "Jun 25, 2025",
+      "rating": 4.6,
+      "searchTerms": ["absolute", "martian", "manhunter", "4", "dc", "comics", "deniz", "camp", "javier", "rodriguez"]
+    },
+
+         {
+         "id": "daredevil-cold-day-in-hell-3",
+         "title": "Daredevil: Cold Day in Hell #3",
+         "publisher": "Marvel Comics",
+         "writer": "Chip Zdarsky",
+         "artist": "David Aja",
+         "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6474813.jpg?1755034580",
+         "description": "Chip Zdarsky and David Aja keep Matt Murdock locked in a brutal trial by fire as Daredevil faces enemies both in the courtroom and the streets. Hell’s Kitchen grows colder and deadlier as conspiracies tighten around him, forcing Matt to question how far justice can bend. Each page layers suspense with Aja’s stark, atmospheric art.",
+         "price": "$4.99",
+         "releaseDate": "Jun 25, 2025",
+         "rating": 4.6,
+         "searchTerms": ["daredevil", "cold", "day", "hell", "3", "marvel", "comics", "chip", "zdarsky", "david", "aja"]
+     },
+
+     {
+         "id": "fantastic-four-57",
+         "title": "Fantastic Four #57",
+         "publisher": "Marvel Comics",
+         "writer": "Stan Lee",
+         "artist": "Jack Kirby",
+         "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1701503.jpg?1737409886",
+         "description": "Stan Lee and Jack Kirby deliver a Silver Age classic as Doctor Doom sets his sights on the Power Cosmic, threatening the balance of the Marvel Universe. The Fantastic Four must stop one of Doom’s most ambitious schemes yet, testing their unity and ingenuity. A pivotal issue that showcases Kirby’s dynamic art and Lee’s sharp storytelling at their height.",
+         "price": "$0.12",
+         "releaseDate": "December 1966",
+         "rating": 3.9,
+                  "searchTerms": ["fantastic", "four", "57", "marvel", "comics", "stan", "lee", "jack", "kirby", "adam", "warlock", "him"]
+     }
+  ]
+}
