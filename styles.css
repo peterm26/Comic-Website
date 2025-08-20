@@ -257,7 +257,7 @@ p {
 
 /* Banner Image Styling */
 .banner-image {
-    width: 125%;
+    width: 175%;
     margin: 0;
     text-align: center;
 }
@@ -293,6 +293,11 @@ p {
     border: 2px solid var(--accent-color);
     position: relative;
     overflow: hidden;
+    width: 1200%;
+    max-width: 1400px;
+    margin-left: -50%;
+    left: 100%;
+    transform: translateX(-50%);
 }
 
 .calendar-box::before {
